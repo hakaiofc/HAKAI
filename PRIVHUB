@@ -191,6 +191,6 @@ JogadorTab:AddToggle({
 JogadorTab:AddButton({
     Name = "InfiniteYield",
     Callback = function()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/hakaiofc/infinityyeld/main/infinity'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/hakaiofc/EdgeIYinfiniteyield/main/mastersource'))()
     end
 })
